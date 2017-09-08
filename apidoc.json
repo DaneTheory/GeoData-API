@@ -1,0 +1,10 @@
+{
+  "name": "GeoData",
+  "version": "0.0.1",
+  "description": "Api docs for GeoData, a service of BroWeather. Ultimately drives Valhalla.",
+  "title": "GeoData-API",
+  "url" : "http://localhost:3000/api/geodata",
+  "template": {
+    "forceLanguage": "en"
+  }
+}
